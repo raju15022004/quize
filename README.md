@@ -1,12 +1,71 @@
-# React + Vite
+I’ve created a clean **English README** for your project based on the files you shared (`vite.config.js`, `package.json`, and the old README). You can directly use this for your GitHub repo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# Quiz App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple **React Quiz Application** built with **Vite** for fast development and optimized builds. This project demonstrates React basics, state management, and component-based UI.
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚡ Powered by **Vite** (fast bundling and HMR)
+* ⚛️ Built with **React 19**
+* 🎨 Easy to customize and expand
+* 🧹 ESLint setup for clean and consistent code
+
+## 📂 Project Structure
+
+```
+├── src/           # Application source code
+├── public/        # Static assets
+├── package.json   # Dependencies and scripts
+├── vite.config.js # Vite configuration
+└── README.md      # Project documentation
+```
+
+## 🔧 Installation & Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/quize.git
+   cd quize
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Build for production:
+
+   ```bash
+   npm run build
+   ```
+
+5. Preview the production build:
+
+   ```bash
+   npm run preview
+   ```
+
+## 🛠 Tech Stack
+
+* **React 19**
+* **Vite 7**
+* **ESLint** (with React hooks and refresh plugins)
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Do you want me to also add **screenshots / usage guide for the quiz functionality**, or just keep it simple like above?
